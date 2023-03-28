@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./custom_spider.jar;md5;b2d7fbe1277e69a94ae94d3ae81d332c",
+    "spider": "./custom_spider.jar;md5;0c4432805b8aa5e96e422781b40c7b3b",
     "lives": [
         {
           "name": "直播",
