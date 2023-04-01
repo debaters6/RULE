@@ -1,3 +1,3 @@
 # 在线仓库
 
-https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json?inline=false
+https://framagit.org/sisvs/TVRule/-/raw/main/XYQTVBox.json
