@@ -1,3 +1,3 @@
 # 在线仓库
 
-/sisvs/TVRule/-/raw/main/XYQTVBox.json
+https://jihulab.com/sisvs/TVRule/-/raw/main/XYQTVBox.json
